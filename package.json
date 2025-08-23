@@ -6,7 +6,7 @@
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@craco/craco": "^7.1.0",
-    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/jest-dom": "^6.6.4",
     "@testing-library/react": "^16.0.1",
     "@testing-library/user-event": "^14.5.2",
     "abi-decoder": "2.4.0",
